@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import { FaWhatsapp, FaLinkedin, FaTwitter } from 'react-icons/fa'
 
